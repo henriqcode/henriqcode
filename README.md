@@ -94,7 +94,7 @@ Sou um **Desenvolvedor Full Stack** com formação em Análise e Desenvolvimento
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=henriqcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas GitHub"/>
     </td>
-    <td width="50%">
+    <td width="20%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriqcode&theme=tokyonight&hide_border=true&locale=pt-br" alt="Sequência de Contribuições"/>
     </td>
   </tr>
